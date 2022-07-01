@@ -1,4 +1,4 @@
-
+//02 video
 // Initializing throttle library
 import throttle from 'lodash.throttle';
 
